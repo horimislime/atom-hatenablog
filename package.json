@@ -1,10 +1,10 @@
 {
   "name": "atom-hatenablog",
-  "main": "./lib/atom-hatenablog",
+  "main": "./lib/hatenablog",
   "version": "0.0.0",
   "description": "Publish entry to hatenablog.com",
   "activationEvents": ["atom-hatenablog:toggle"],
-  "repository": "git@github.com:horimislime/atom-hatenablog.git",
+  "repository": "https://github.com/horimislime/atom-hatenablog",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
