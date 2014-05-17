@@ -5,7 +5,7 @@ Publish blog entry to [hatenablog.com](http://hatenablog.com) instantly.
 ## Setup
 ![settings](/images/settings.png)
 
-First you need to fill these fields:
+In the package settings, you need to fill these fields:
 - Your API token([it can be found here](http://blog.hatena.ne.jp/my/config/detail))
 - Blog ID you want to post
 - Hatena ID
