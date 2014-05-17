@@ -8,9 +8,9 @@ In the package settings, you need to fill these fields:
 - Blog ID you want to post
 - Hatena ID
 
-![settings](/images/settings.png)
+![settings](https://github.com/horimislime/atom-hatenablog/raw/master/images/settings.png)
 
 ## Usage
 `ctrl-shift-h` while you open entry content, and enter title then click 'Publish'.
 
-![post](/images/post.png)
+![post](https://github.com/horimislime/atom-hatenablog/raw/master/images/post.png)
