@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable atom-hatenablog': 'atom-hatenablog:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Hatena Blog'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'atom-hatenablog:toggle' }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "atom-hatenablog",
+  "main": "./lib/atom-hatenablog",
+  "version": "0.0.0",
+  "description": "Publish entry to hatenablog.com",
+  "activationEvents": ["atom-hatenablog:toggle"],
+  "repository": "git@github.com:horimislime/atom-hatenablog.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "moment": "2.6.0",
+    "underscore": "1.6.0",
+    "request": "2.33.0",
+    "xml2js": "0.4.2"
+  }
+}
