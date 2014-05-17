@@ -1,5 +1,5 @@
 {
-  "name": "atom-hatenablog",
+  "name": "hatenablog",
   "main": "./lib/hatenablog",
   "version": "0.0.0",
   "description": "Publish entry to hatenablog.com",
