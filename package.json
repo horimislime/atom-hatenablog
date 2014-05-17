@@ -1,7 +1,7 @@
 {
   "name": "hatena-blog",
   "main": "./lib/hatenablog",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Publish entry to hatenablog.com",
   "activationEvents": ["atom-hatenablog:toggle"],
   "repository": "https://github.com/horimislime/atom-hatenablog",
