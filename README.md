@@ -1,5 +1,15 @@
-# atom-hatenablog package
+# atom-hatenablog
 
-A short description of your package.
+Publish blog entry to [hatenablog.com](http://hatenablog.com) instantly.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Setup
+![settings](/images/settings.png)
+
+First you need to fill these fields:
+- Your API token([it can be found here](http://blog.hatena.ne.jp/my/config/detail))
+- Blog ID you want to post
+- Hatena ID
+
+## Usage
+![post](/images/post.png)
+`ctrl-shift-h` while you open entry content, and enter title then click 'Publish'.
