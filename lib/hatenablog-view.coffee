@@ -6,7 +6,7 @@ Clipboard = require 'clipboard'
 HatenaBlog = require './hatenablog-model'
 
 module.exports =
-class AtomHatenablogView extends View
+class HatenablogView extends View
 
   view = []
 
