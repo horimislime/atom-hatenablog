@@ -11,13 +11,13 @@ class HatenaBlog
       @entryBody = ""
 
   getHatenaId: ->
-    atom.config.get("atom-hatenablog.hatenaId")
+    atom.config.get("hatena-blog.hatenaId")
 
   getBlogId: ->
-    atom.config.get("atom-hatenablog.blogId")
+    atom.config.get("hatena-blog.blogId")
 
   getApiToken: ->
-    atom.config.get("atom-hatenablog.apiToken")
+    atom.config.get("hatena-blog.apiToken")
 
   post: (callback) ->
     draftStatus = if @isPublic then 'no' else 'yes'
