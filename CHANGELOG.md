@@ -1,3 +1,6 @@
+## 0.3.0 - Fixed posting issue
+Fixed reading config from wrong key property
+
 ## 0.2.0 - Minor fix
 Fix image URL on readme
 
